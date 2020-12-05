@@ -6,7 +6,7 @@ I'm a 4th year Computer Science student at Oregon State University. I'm interest
 
 I work as a student software developer with an OSU organization called [EPICLab](https://epiclab.github.io/). I am mentored by [Dr. Anita Sarma](http://web.engr.oregonstate.edu/~sarmaa/). Currently, I am working on developing the front end of an experimental integrated development environment using TypeScript, React, Redux, and CSS. 
 
-In my free time I enjoy participating in hackathons with my friends, building fun games, and hiking. Feel free to check out some of my work in the projects section below!
+In my free time I enjoy participating in hackathons with my friends, building fun games, hiking, and learning Japanese. Feel free to check out some of my work in the projects section below!
 
 ### Pages
 - [GitHub](https://github.com/jettseale/)
