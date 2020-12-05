@@ -1,46 +1,54 @@
 ## About Me
-I am so neat
+Hi! My name is Jett Seale. 
+
+#### Summary
+I'm a 4th year Computer Science student at Oregon State University. I'm interested in full stack web and mobile application development. 
+
+I work as a student software developer with an OSU organization called EPICLab. I am mentored by Dr. Anita Sarma. Currently, I am working on developing the front end of an experimental integrated development environment using TypeScript, React, Redux, and CSS. 
+
+In my free time I enjoy participating in hackathons with my friends, building fun games, and hiking. Feel free to check out some of my work in the projects section below!
+
+#### Contact Information
+- GitHub
+- LinkedIn
+- Handshake 
+- Resume
 
 ## Projects
-I am so smart
+#### Synectic
+Synectic
 
-## Contact Info
-I have stuffs
+#### Mentory
+Mentory
 
-## Welcome to GitHub Pages
+## Completed Courses
+#### Computer Science
+- CS16X - Introduction to Computer Science Series
+- CS261 - Data Structures
+- CS271 - Computer Architecture and Assembly Language
+- CS290, CS499 - Web Development & Advanced Web Development
+- CS340 - Databases
+- CS372 - Computer Networks
+- CS344, CS444 - Operating Systems I & II
+- CS361, CS362 - Software Engineering I & II
+- CS391 - Social and Ethical Issues in Computer Science
+- CS325 - Analysis of Algorithms
+- CS352 - Usability Engineering
+- CS381 - Programming Language Fundamentals
+- CS370 - Security
+- CS450 - Computer Graphics
+- CS492 - Mobile Software Development
+- CS46X - Senior Capstone Series
 
-You can use the [editor on GitHub](https://github.com/jettseale/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Mathematics 
+- MTH251 - Differential Calculus
+- MTH252 - Integral Calculus
+- MTH254 - Vector Calculus
+- MTH231 - Discrete Mathematics
+- MTH341 - Linear Algebra
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jettseale/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Other
+- WR327 - Technical Writing
+- WR214 - Writing in Business
+- ST314 - Statistics for Engineers
+- JPN111 through JPN 213 - Japanese Language Series 
