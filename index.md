@@ -56,4 +56,4 @@ Amazon Alexa Study Buddy
 - WR327 - Technical Writing
 - WR214 - Writing in Business
 - ST314 - Statistics for Engineers
-- JPN111 thru JPN 213 - Japanese Language Series 
+- JPN21X - Intermediate Japanese Series
