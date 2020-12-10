@@ -15,16 +15,16 @@ In my free time I enjoy participating in hackathons with my friends, building fu
 
 # Projects
 ### Synectic
-Synectic
-
-### Mentory
-Mentory
+Tools/technologies used: TypeScript, React, Redux, Node.js, Webpack, Electron, HTML, CSS, Jest, Enzyme, and React Testing Library.\
+Synectic is an experimental integrated development environment Electron application. I developed multiple integral front-end system components, including a "create new card" modal and a file explorer. 
 
 ### Amazon Alexa Study Buddy
-Amazon Alexa Study Buddy
+Tools/technologies used: JavaScript, React, AWS, Amazon Alexa, HTML, CSS.\
+Amazon Alexa Study Buddy is a web application that allows the user to create their own custom flashcards. It then can connect to an Amazon Alexa to quiz the user out-loud, using the flashcards they entered on the site. I developed the entire front-end of the website, as well as assisted in programming the Amazon Alexa. 
 
 ### 3D Platformer Game
-3D Platformer Game
+Tools/technologies used: Python and Godot.\
+In my free time, I developed a 3D platformer game similar to Super Monkey Ball. Players can tilt various 3D platforms to try and roll a ball into the goal without the ball falling off the edges. I created all the assets, designed the levels, and programmed the game myself. 
 
 # Completed Courses
 ### Computer Science
