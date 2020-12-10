@@ -15,8 +15,8 @@ In my free time I enjoy participating in hackathons with my friends, building fu
 
 # Projects
 ### Synectic
-Tools/technologies used: TypeScript, React, Redux, Node.js, Webpack, Electron, HTML, CSS, Jest, Enzyme, and React Testing Library.\
-Synectic is an experimental integrated development environment Electron application. I developed multiple integral front-end system components, including a "create new card" modal and a file explorer. 
+Tools/technologies used: TypeScript, React, Redux, Node.js, Webpack, Electron, HTML, CSS, Jest, Enzyme, TravisCI, and React Testing Library.\
+Synectic is an experimental integrated development environment Electron application. I developed multiple integral front-end system components, including a "create new card" modal and a file explorer. I have also written extensive unit and integration tests, increasing the total line coverage of the codebase by 30%. 
 
 ### Amazon Alexa Study Buddy
 Tools/technologies used: JavaScript, React, AWS, Amazon Alexa, HTML, CSS.\
